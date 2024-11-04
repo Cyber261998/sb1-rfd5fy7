@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "汽车配件商店",
+    "cart": "购物车",
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "退出",
+    "manageProducts": "管理产品",
+    "welcome": "欢迎"
+  },
+  "search": {
+    "placeholder": "搜索产品..."
+  },
+  "product": {
+    "addToCart": "加入购物车",
+    "outOfStock": "缺货",
+    "inStock": "库存：{{count}}件"
+  },
+  "auth": {
+    "email": "邮箱",
+    "password": "密码",
+    "fullName": "姓名",
+    "createAccount": "创建账户",
+    "signIn": "登录",
+    "signUp": "注册",
+    "noAccount": "还没有账户？",
+    "loading": {
+      "signIn": "登录中...",
+      "signUp": "创建账户中..."
+    }
+  }
+}

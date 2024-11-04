@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Магазин Автозапчастей",
+    "cart": "Корзина",
+    "signIn": "Войти",
+    "signUp": "Регистрация",
+    "signOut": "Выйти",
+    "manageProducts": "Управление Товарами",
+    "welcome": "Добро пожаловать"
+  },
+  "search": {
+    "placeholder": "Поиск товаров..."
+  },
+  "product": {
+    "addToCart": "В корзину",
+    "outOfStock": "Нет в наличии",
+    "inStock": "В наличии: {{count}} шт."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Пароль",
+    "fullName": "Полное имя",
+    "createAccount": "Создать аккаунт",
+    "signIn": "Войти",
+    "signUp": "Зарегистрироваться",
+    "noAccount": "Нет аккаунта?",
+    "loading": {
+      "signIn": "Вход...",
+      "signUp": "Создание аккаунта..."
+    }
+  }
+}

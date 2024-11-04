@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Magasin de Pièces Auto",
+    "cart": "Panier",
+    "signIn": "Connexion",
+    "signUp": "S'inscrire",
+    "signOut": "Déconnexion",
+    "manageProducts": "Gérer les Produits",
+    "welcome": "Bienvenue"
+  },
+  "search": {
+    "placeholder": "Rechercher des produits..."
+  },
+  "product": {
+    "addToCart": "Ajouter au Panier",
+    "outOfStock": "En Rupture de Stock",
+    "inStock": "En stock: {{count}} unités"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "createAccount": "Créer un Compte",
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "loading": {
+      "signIn": "Connexion en cours...",
+      "signUp": "Création du compte..."
+    }
+  }
+}

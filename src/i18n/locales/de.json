@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Autoteile-Shop",
+    "cart": "Warenkorb",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "signOut": "Abmelden",
+    "manageProducts": "Produkte verwalten",
+    "welcome": "Willkommen"
+  },
+  "search": {
+    "placeholder": "Produkte suchen..."
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "outOfStock": "Nicht auf Lager",
+    "inStock": "Auf Lager: {{count}} Einheiten"
+  },
+  "auth": {
+    "email": "E-Mail",
+    "password": "Passwort",
+    "fullName": "Vollständiger Name",
+    "createAccount": "Konto erstellen",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "noAccount": "Noch kein Konto?",
+    "loading": {
+      "signIn": "Anmeldung läuft...",
+      "signUp": "Konto wird erstellt..."
+    }
+  }
+}

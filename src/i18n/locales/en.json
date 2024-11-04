@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Auto Parts Store",
+    "cart": "Cart",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "manageProducts": "Manage Products",
+    "welcome": "Welcome"
+  },
+  "search": {
+    "placeholder": "Search products..."
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "inStock": "In stock: {{count}} units"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "createAccount": "Create an Account",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "loading": {
+      "signIn": "Signing in...",
+      "signUp": "Creating Account..."
+    }
+  }
+}
